@@ -21,10 +21,10 @@
 
 ### 🤝 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/anujkandalkar" target="_blank">
+  <a href="https://www.linkedin.com/in/anuj-kandalkar-241499260/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/anujkandalkar" target="_blank">
+  <a href="https://www.instagram.com/anuj_kandalkar/?hl=en" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
@@ -71,16 +71,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anujkandalkar&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujkandalkar&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
----
-
-### 🔗 Quick Links
-<p align="center">
-  <a href="https://www.linkedin.com/in/anujkandalkar">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="mailto:anujkandalkar78@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" />
-  </a>
 </p>
