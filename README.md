@@ -30,7 +30,11 @@
   <a href="https://www.instagram.com/anuj_kandalkar/?hl=en" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/>
   </a>
+  <a href="https://leetcode.com/u/anuj4249/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="40" height="40"/>
+  </a>
 </p>
+
 
 ---
 
