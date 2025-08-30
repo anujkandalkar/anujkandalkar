@@ -2,7 +2,7 @@
 <h3 align="center">💻 Java Developer | MERN Stack Developer | Computer Engineering Student</h3>
 
 <p align="center">
-  📍 Pune, India &nbsp;•&nbsp; 🎓 Trinity College of Engineering and Research <br>
+  📍 Pune, India &nbsp;•&nbsp; 🎓 Trinity College of Engineering and Research, Pune<br>
   📧 <a href="mailto:anujkandalkar78@gmail.com">anujkandalkar78@gmail.com</a>
 </p>
 
