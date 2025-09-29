@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **WanderSphere**
+- 🔭 Currently working on **Academics**
 - 🌱 Learning **React js**
 - 💬 Ask me about **Java**, **MERN Stack**
 - 📫 Reach out at: [anujkandalkar78@gmail.com](mailto:anujkandalkar78@gmail.com)
