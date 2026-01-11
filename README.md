@@ -57,7 +57,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anujkandalkar&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujkandalkar&layout=compact&theme=tokyonight" width="48%" alt="Top Languages"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=anujkandalkar&show_icons=true&theme=tokyonight" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujkandalkar&layout=compact&theme=tokyonight" height="165"/>
+
+</div>
+
