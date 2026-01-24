@@ -13,13 +13,11 @@
 ---
 
 ## 🚀 About Me
-
 - 🔭 Currently working on **HealthConnect**
-- 🌱 Learning **React js**
-- 💬 Ask me about **Java**, **MERN Stack**
+- 🌱 Learning **React.js** and **Redux**
+- 💬 Ask me about **Java** and the **MERN Stack**
 - 📫 Reach out at: [anujkandalkar78@gmail.com](mailto:anujkandalkar78@gmail.com)
 
----
 
 ## 🤝 Connect with Me
 
