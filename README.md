@@ -52,13 +52,6 @@
 </p>
 
 ---
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anujkandalkar&theme=github_dark" alt="GitHub Profile Details" />
-</p>
-
 ## 📈 Contribution Graph
 
 <p align="center">
