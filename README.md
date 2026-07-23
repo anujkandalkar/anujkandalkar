@@ -98,44 +98,25 @@ I'm a passionate **Computer Engineering student** with a strong interest in **Ja
 
 # 📌 Featured Projects
 
-### 💰 FinTrack
-A full-stack personal finance management system with secure authentication, analytics dashboard, and expense tracking.
-
-**Tech Stack:** React • Node.js • Express • MongoDB • JWT
-
----
-
-### 🏥 Tamper-Evident Audit Log System
-A Java Full Stack healthcare audit logging application with SHA-256 hash chaining for tamper detection.
+### 🏥 HealthConnect
+A full-stack healthcare management system for appointment booking, medical record management, secure authentication, and role-based access control.
 
 **Tech Stack:** Java • JSP • Servlets • JDBC • MySQL
 
 ---
 
-### 🚗 Smart Parking System
-A web-based smart parking solution for efficient parking slot management and booking.
+### 💼 EmpManage
+A RESTful Employee Management System built using Spring Boot with layered MVC architecture, Hibernate, and MySQL for efficient employee record management.
 
-**Tech Stack:** Java • MySQL • HTML • CSS • JavaScript
-
----
-
-### ♻️ Plastic Waste Management System
-A platform that encourages responsible plastic waste disposal and recycling management.
-
-**Tech Stack:** HTML • CSS • JavaScript • MySQL
-
----
+**Tech Stack:** Java • Spring Boot • Spring Data JPA • Hibernate • MySQL • REST APIs
 
 # 📊 GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=anujkandalkar&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=anujkandalkar&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujkandalkar&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
