@@ -154,16 +154,7 @@ A platform that encourages responsible plastic waste disposal and recycling mana
 - ✅ Strengthen Data Structures & Algorithms
 - ✅ Contribute to Open Source Projects
 - ✅ Secure a Software Developer role
-
 ---
-
-# 💡 Fun Fact
-
-> **"I believe consistency beats intensity. Every day I write code, learn something new, and become a better developer."** 🚀
-
----
-
 <p align="center">
 ⭐ Thanks for visiting my profile! If you like my work, consider giving a ⭐ to my repositories.
 </p>
-```
