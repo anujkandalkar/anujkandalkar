@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anuj Kandalkar</h1>
-<h3 align="center">💻 Java Developer | Aspiring Java Full Stack Developer | Computer Engineering Student</h3>
+<h3 align="center">💻 Java Developer | Aspiring Java Full Stack Developer</h3>
 
 <p align="center">
-  📍 Pune, India &nbsp;•&nbsp; 🎓 Trinity College of Engineering and Research, Pune<br>
+  📍 Pune, India &nbsp;•&nbsp; 🎓 B.E. Computer Engineering Graduate<br>
   📧 <a href="mailto:anujkandalkar78@gmail.com">anujkandalkar78@gmail.com</a>
 </p>
 
@@ -14,12 +14,12 @@
 
 # 🚀 About Me
 
-I'm a passionate **Computer Engineering student** with a strong interest in **Java Development** and **Full Stack Development**. I enjoy building scalable applications, solving coding challenges, and continuously improving my software development skills.
+I'm a Computer Engineering graduate with a strong foundation in Java, Spring Boot, SQL, and Full Stack Development. Passionate about building scalable applications, solving real-world problems, and continuously learning modern software development technologies.
 
-- ☕ Strengthening my **Java, Data Structures & Algorithms, and SQL** skills
-- 🌱 Learning **Spring Boot, REST APIs, and Java Full Stack Development**
-- 💻 Building real-world projects using **Java, React, Node.js, MySQL, and MongoDB**
-- 🎯 Looking for **Software Developer, Java Developer, and Full Stack Developer** opportunities
+- ☕ Strengthening my **Java, Data Structures & Algorithms, SQL, and Spring Boot** skills
+- 🌱 Exploring **Microservices, REST APIs, Spring Security, and Cloud Technologies**
+- 💻 Building real-world applications using **Java, Spring Boot, React, Node.js, MySQL, and MongoDB**
+- 🎯 Seeking **Software Developer, Java Developer, Backend Developer, and Java Full Stack Developer** opportunities
 - 📚 Passionate about writing clean, efficient, and maintainable code
 - 📫 Reach me at **anujkandalkar78@gmail.com**
 
@@ -27,11 +27,11 @@ I'm a passionate **Computer Engineering student** with a strong interest in **Ja
 
 # 💼 Professional Highlights
 
-- 🎓 Final Year B.E. Computer Engineering Student
-- 💻 Strong foundation in Object-Oriented Programming and Database Management
-- ⚡ Experience developing Full Stack web applications
-- 🔍 Enthusiastic problem solver with a focus on writing optimized solutions
-- 🤝 Quick learner who enjoys collaborating and working in teams
+- 🎓 B.E. Computer Engineering Graduate
+- 💻 Strong foundation in Object-Oriented Programming, Data Structures & Algorithms, and Database Management Systems
+- ⚡ Experience developing Full Stack web applications using Java and modern web technologies
+- 🔍 Passionate problem solver with a focus on writing optimized and scalable solutions
+- 🤝 Quick learner with strong teamwork and communication skills
 
 ---
 
@@ -89,8 +89,7 @@ I'm a passionate **Computer Engineering student** with a strong interest in **Ja
   <a href="https://www.instagram.com/anuj_kandalkar/?hl=en" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
   </a>
-  <a href="https://leetcode.com/u/anuj4249/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40"/>
+  <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40"/>
   </a>
 </p>
 
@@ -110,13 +109,13 @@ A RESTful Employee Management System built using Spring Boot with layered MVC ar
 
 **Tech Stack:** Java • Spring Boot • Spring Data JPA • Hibernate • MySQL • REST APIs
 
+---
+
 # 📊 GitHub Statistics
 
 <p align="center">
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=anujkandalkar&theme=tokyonight&hide_border=true"/>
 </p>
-
-<p align="center">
 
 ---
 
@@ -130,12 +129,15 @@ A RESTful Employee Management System built using Spring Boot with layered MVC ar
 
 # 🎯 Current Goals
 
-- ✅ Master Java Full Stack Development
-- ✅ Build scalable Spring Boot applications
+- ✅ Secure a Java Developer / Software Developer role
+- ✅ Master Spring Boot, Microservices, and REST APIs
 - ✅ Strengthen Data Structures & Algorithms
 - ✅ Contribute to Open Source Projects
-- ✅ Secure a Software Developer role
+- ✅ Build scalable Full Stack applications
+
 ---
+
 <p align="center">
 ⭐ Thanks for visiting my profile! If you like my work, consider giving a ⭐ to my repositories.
 </p>
+```
